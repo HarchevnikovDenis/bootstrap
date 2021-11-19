@@ -307,7 +307,7 @@ ul li {
   display: none; }
 
 @media (max-width: 720px) {
-  .nvigation {
+  .navigation {
     padding: 30px 10px 26px; }
   .promo {
     padding: 40px 10px 56px; }
@@ -321,7 +321,7 @@ ul li {
     display: none; }
   .mobile {
     display: flex; }
-  .nv-menu {
+  .nav-menu {
     display: none; }
   .burger-menu {
     display: flex; } }
